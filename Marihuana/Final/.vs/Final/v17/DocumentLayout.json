@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2032CFF2-D6B1-4C32-ACEF-A2EDFBB89603}|Final\\Final.csproj|C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\final\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2032CFF2-D6B1-4C32-ACEF-A2EDFBB89603}|Final\\Final.csproj|solutionrelative:final\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2032CFF2-D6B1-4C32-ACEF-A2EDFBB89603}|Final\\Final.csproj|C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\final\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2032CFF2-D6B1-4C32-ACEF-A2EDFBB89603}|Final\\Final.csproj|solutionrelative:final\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2032CFF2-D6B1-4C32-ACEF-A2EDFBB89603}|Final\\Final.csproj|C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\final\\http\\clientesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2032CFF2-D6B1-4C32-ACEF-A2EDFBB89603}|Final\\Final.csproj|solutionrelative:final\\http\\clientesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BCF95E-D323-40A0-8664-060B0BA5344A}|Back\\Back.csproj|C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\back\\dominio\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BCF95E-D323-40A0-8664-060B0BA5344A}|Back\\Back.csproj|solutionrelative:back\\dominio\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BCF95E-D323-40A0-8664-060B0BA5344A}|Back\\Back.csproj|C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\back\\fachada\\interfaz\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BCF95E-D323-40A0-8664-060B0BA5344A}|Back\\Back.csproj|solutionrelative:back\\fachada\\interfaz\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BCF95E-D323-40A0-8664-060B0BA5344A}|Back\\Back.csproj|C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\back\\datos\\implementacion\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BCF95E-D323-40A0-8664-060B0BA5344A}|Back\\Back.csproj|solutionrelative:back\\datos\\implementacion\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BCF95E-D323-40A0-8664-060B0BA5344A}|Back\\Back.csproj|C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\back\\dominio\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BCF95E-D323-40A0-8664-060B0BA5344A}|Back\\Back.csproj|solutionrelative:back\\dominio\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6592BC95-A99A-4FC7-A268-A00860A57E5A}|Api\\Api.csproj|c:\\users\\sarie\\downloads\\sg-113174_-_copia_2\\sg-113174 - copia (2)\\final\\api\\controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6592BC95-A99A-4FC7-A268-A00860A57E5A}|Api\\Api.csproj|solutionrelative:api\\controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BCF95E-D323-40A0-8664-060B0BA5344A}|Back\\Back.csproj|C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\back\\datos\\helperdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BCF95E-D323-40A0-8664-060B0BA5344A}|Back\\Back.csproj|solutionrelative:back\\datos\\helperdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BCF95E-D323-40A0-8664-060B0BA5344A}|Back\\Back.csproj|C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\back\\datos\\interfaz\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BCF95E-D323-40A0-8664-060B0BA5344A}|Back\\Back.csproj|solutionrelative:back\\datos\\interfaz\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BCF95E-D323-40A0-8664-060B0BA5344A}|Back\\Back.csproj|C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\back\\dominio\\detalleturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BCF95E-D323-40A0-8664-060B0BA5344A}|Back\\Back.csproj|solutionrelative:back\\dominio\\detalleturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BCF95E-D323-40A0-8664-060B0BA5344A}|Back\\Back.csproj|C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\back\\fachada\\implementacion\\aplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BCF95E-D323-40A0-8664-060B0BA5344A}|Back\\Back.csproj|solutionrelative:back\\fachada\\implementacion\\aplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2032CFF2-D6B1-4C32-ACEF-A2EDFBB89603}|Final\\Final.csproj|C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2032CFF2-D6B1-4C32-ACEF-A2EDFBB89603}|Final\\Final.csproj|solutionrelative:final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BCF95E-D323-40A0-8664-060B0BA5344A}|Back\\Back.csproj|C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\back\\datos\\parametro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BCF95E-D323-40A0-8664-060B0BA5344A}|Back\\Back.csproj|solutionrelative:back\\datos\\parametro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TurnoController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Api\\Controllers\\TurnoController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\TurnoController.cs",
+              "ToolTip": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Api\\Controllers\\TurnoController.cs",
+              "RelativeToolTip": "Api\\Controllers\\TurnoController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAArwEkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T01:33:01.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Turno.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Back\\Dominio\\Turno.cs",
+              "RelativeDocumentMoniker": "Back\\Dominio\\Turno.cs",
+              "ToolTip": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Back\\Dominio\\Turno.cs",
+              "RelativeToolTip": "Back\\Dominio\\Turno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T01:33:01.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dao.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Back\\Datos\\Implementacion\\Dao.cs",
+              "RelativeDocumentMoniker": "Back\\Datos\\Implementacion\\Dao.cs",
+              "ToolTip": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Back\\Datos\\Implementacion\\Dao.cs",
+              "RelativeToolTip": "Back\\Datos\\Implementacion\\Dao.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDYAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T01:33:01.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Back\\Fachada\\Interfaz\\IAplicacion.cs",
+              "RelativeDocumentMoniker": "Back\\Fachada\\Interfaz\\IAplicacion.cs",
+              "ToolTip": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Back\\Fachada\\Interfaz\\IAplicacion.cs",
+              "RelativeToolTip": "Back\\Fachada\\Interfaz\\IAplicacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T01:33:01.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Back\\Dominio\\Medico.cs",
+              "RelativeDocumentMoniker": "Back\\Dominio\\Medico.cs",
+              "ToolTip": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Back\\Dominio\\Medico.cs",
+              "RelativeToolTip": "Back\\Dominio\\Medico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T01:33:01.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Final\\Http\\ClienteSingleton.cs",
+              "RelativeDocumentMoniker": "Final\\Http\\ClienteSingleton.cs",
+              "ToolTip": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Final\\Http\\ClienteSingleton.cs",
+              "RelativeToolTip": "Final\\Http\\ClienteSingleton.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T01:33:01.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Final\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Final\\Presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Final\\Presentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Final\\Presentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T01:33:01.698Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Final\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Final\\Presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Final\\Presentacion\\Form1.cs",
+              "RelativeToolTip": "Final\\Presentacion\\Form1.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAIwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T01:33:00.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDao.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Back\\Datos\\Interfaz\\IDao.cs",
+              "RelativeDocumentMoniker": "Back\\Datos\\Interfaz\\IDao.cs",
+              "ToolTip": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Back\\Datos\\Interfaz\\IDao.cs",
+              "RelativeToolTip": "Back\\Datos\\Interfaz\\IDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T01:33:01.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HelperDB.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Back\\Datos\\HelperDB.cs",
+              "RelativeDocumentMoniker": "Back\\Datos\\HelperDB.cs",
+              "ToolTip": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Back\\Datos\\HelperDB.cs",
+              "RelativeToolTip": "Back\\Datos\\HelperDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T01:33:01.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetalleTurno.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Back\\Dominio\\DetalleTurno.cs",
+              "RelativeDocumentMoniker": "Back\\Dominio\\DetalleTurno.cs",
+              "ToolTip": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Back\\Dominio\\DetalleTurno.cs",
+              "RelativeToolTip": "Back\\Dominio\\DetalleTurno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T01:33:01.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Aplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Back\\Fachada\\Implementacion\\Aplicacion.cs",
+              "RelativeDocumentMoniker": "Back\\Fachada\\Implementacion\\Aplicacion.cs",
+              "ToolTip": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Back\\Fachada\\Implementacion\\Aplicacion.cs",
+              "RelativeToolTip": "Back\\Fachada\\Implementacion\\Aplicacion.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T01:33:01.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Parametro.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Back\\Datos\\Parametro.cs",
+              "RelativeDocumentMoniker": "Back\\Datos\\Parametro.cs",
+              "ToolTip": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Back\\Datos\\Parametro.cs",
+              "RelativeToolTip": "Back\\Datos\\Parametro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T01:33:01.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Final\\Program.cs",
+              "RelativeDocumentMoniker": "Final\\Program.cs",
+              "ToolTip": "C:\\Users\\Sarie\\Downloads\\SG-113174_-_copia_2\\SG-113174 - copia (2)\\Final\\Final\\Program.cs",
+              "RelativeToolTip": "Final\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T01:33:00.675Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

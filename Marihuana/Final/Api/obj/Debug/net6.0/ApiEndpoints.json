@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "Api.Controllers.TurnoController",
+    "Method": "GetExiste",
+    "RelativePath": "ConsultaExistente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fecha",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "hora",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "matricula",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.TurnoController",
+    "Method": "GetMedicos",
+    "RelativePath": "medicos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.TurnoController",
+    "Method": "PostTurnos",
+    "RelativePath": "turnos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "turno",
+        "Type": "Back.Dominio.Turno",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
