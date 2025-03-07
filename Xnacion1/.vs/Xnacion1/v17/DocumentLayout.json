@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|c:\\users\\sarie\\source\\repos\\xnacion1\\xnacion1\\repository\\dbenviosfinalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|solutionrelative:xnacion1\\repository\\dbenviosfinalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|c:\\users\\sarie\\source\\repos\\xnacion1\\xnacion1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|solutionrelative:xnacion1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|c:\\users\\sarie\\source\\repos\\xnacion1\\xnacion1\\service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|solutionrelative:xnacion1\\service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|c:\\users\\sarie\\source\\repos\\xnacion1\\xnacion1\\repository\\tdetallesenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|solutionrelative:xnacion1\\repository\\tdetallesenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|c:\\users\\sarie\\source\\repos\\xnacion1\\xnacion1\\controllers\\envioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|solutionrelative:xnacion1\\controllers\\envioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|c:\\users\\sarie\\source\\repos\\xnacion1\\xnacion1\\repos\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|solutionrelative:xnacion1\\repos\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|c:\\users\\sarie\\source\\repos\\xnacion1\\xnacion1\\dtos\\enviodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|solutionrelative:xnacion1\\dtos\\enviodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|c:\\users\\sarie\\source\\repos\\xnacion1\\xnacion1\\repository\\tenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|solutionrelative:xnacion1\\repository\\tenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|c:\\users\\sarie\\source\\repos\\xnacion1\\xnacion1\\service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|solutionrelative:xnacion1\\service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|c:\\users\\sarie\\source\\repos\\xnacion1\\xnacion1\\controllers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|solutionrelative:xnacion1\\controllers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|c:\\users\\sarie\\source\\repos\\xnacion1\\xnacion1\\repos\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|solutionrelative:xnacion1\\repos\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|c:\\users\\sarie\\source\\repos\\xnacion1\\xnacion1\\repository\\tproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|solutionrelative:xnacion1\\repository\\tproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|c:\\users\\sarie\\source\\repos\\xnacion1\\xnacion1\\validations\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|solutionrelative:xnacion1\\validations\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|c:\\users\\sarie\\source\\repos\\xnacion1\\xnacion1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|solutionrelative:xnacion1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|c:\\users\\sarie\\source\\repos\\xnacion1\\xnacion1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|solutionrelative:xnacion1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|c:\\users\\sarie\\source\\repos\\xnacion1\\xnacion1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|solutionrelative:xnacion1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|c:\\users\\sarie\\source\\repos\\xnacion1\\xnacion1\\xnacion1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6966F7C-6B0D-4989-80F3-3CC8AF39BEAF}|Xnacion1\\Xnacion1.csproj|solutionrelative:xnacion1\\xnacion1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Repository\\TProducto.cs",
+              "RelativeDocumentMoniker": "Xnacion1\\Repository\\TProducto.cs",
+              "ToolTip": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Repository\\TProducto.cs",
+              "RelativeToolTip": "Xnacion1\\Repository\\TProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:23:30.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TEnvio.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Repository\\TEnvio.cs",
+              "RelativeDocumentMoniker": "Xnacion1\\Repository\\TEnvio.cs",
+              "ToolTip": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Repository\\TEnvio.cs",
+              "RelativeToolTip": "Xnacion1\\Repository\\TEnvio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:14:39.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TDetallesEnvio.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Repository\\TDetallesEnvio.cs",
+              "RelativeDocumentMoniker": "Xnacion1\\Repository\\TDetallesEnvio.cs",
+              "ToolTip": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Repository\\TDetallesEnvio.cs",
+              "RelativeToolTip": "Xnacion1\\Repository\\TDetallesEnvio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:35:56.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnvioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Dtos\\EnvioDto.cs",
+              "RelativeDocumentMoniker": "Xnacion1\\Dtos\\EnvioDto.cs",
+              "ToolTip": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Dtos\\EnvioDto.cs",
+              "RelativeToolTip": "Xnacion1\\Dtos\\EnvioDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:23:52.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Apiresponse.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Controllers\\Apiresponse.cs",
+              "RelativeDocumentMoniker": "Xnacion1\\Controllers\\Apiresponse.cs",
+              "ToolTip": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Controllers\\Apiresponse.cs",
+              "RelativeToolTip": "Xnacion1\\Controllers\\Apiresponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:56:38.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbEnviosFinalContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Repository\\DbEnviosFinalContext.cs",
+              "RelativeDocumentMoniker": "Xnacion1\\Repository\\DbEnviosFinalContext.cs",
+              "ToolTip": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Repository\\DbEnviosFinalContext.cs",
+              "RelativeToolTip": "Xnacion1\\Repository\\DbEnviosFinalContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:11:54.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnviosController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Controllers\\EnviosController.cs",
+              "RelativeDocumentMoniker": "Xnacion1\\Controllers\\EnviosController.cs",
+              "ToolTip": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Controllers\\EnviosController.cs",
+              "RelativeToolTip": "Xnacion1\\Controllers\\EnviosController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwGwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:11:30.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Repos\\IRepository.cs",
+              "RelativeDocumentMoniker": "Xnacion1\\Repos\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Repos\\IRepository.cs",
+              "RelativeToolTip": "Xnacion1\\Repos\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:13:22.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Program.cs",
+              "RelativeDocumentMoniker": "Xnacion1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Program.cs",
+              "RelativeToolTip": "Xnacion1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:06:05.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Service\\Service.cs",
+              "RelativeDocumentMoniker": "Xnacion1\\Service\\Service.cs",
+              "ToolTip": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Service\\Service.cs",
+              "RelativeToolTip": "Xnacion1\\Service\\Service.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA6wB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:13:58.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Service\\IService.cs",
+              "RelativeDocumentMoniker": "Xnacion1\\Service\\IService.cs",
+              "ToolTip": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Service\\IService.cs",
+              "RelativeToolTip": "Xnacion1\\Service\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:13:51.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Repos\\Repository.cs",
+              "RelativeDocumentMoniker": "Xnacion1\\Repos\\Repository.cs",
+              "ToolTip": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Repos\\Repository.cs",
+              "RelativeToolTip": "Xnacion1\\Repos\\Repository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:13:29.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Xnacion1\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\WeatherForecast.cs",
+              "RelativeToolTip": "Xnacion1\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:10:14.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Validations.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Validations\\Validations.cs",
+              "RelativeDocumentMoniker": "Xnacion1\\Validations\\Validations.cs",
+              "ToolTip": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Validations\\Validations.cs",
+              "RelativeToolTip": "Xnacion1\\Validations\\Validations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:24:09.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Xnacion1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\appsettings.Development.json",
+              "RelativeToolTip": "Xnacion1\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T17:35:51.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Xnacion1.csproj",
+              "DocumentMoniker": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Xnacion1.csproj",
+              "RelativeDocumentMoniker": "Xnacion1\\Xnacion1.csproj",
+              "ToolTip": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\Xnacion1.csproj",
+              "RelativeToolTip": "Xnacion1\\Xnacion1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T17:12:20.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\appsettings.json",
+              "RelativeDocumentMoniker": "Xnacion1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sarie\\source\\repos\\Xnacion1\\Xnacion1\\appsettings.json",
+              "RelativeToolTip": "Xnacion1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T16:58:52.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
