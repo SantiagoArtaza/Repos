@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Consulta de envíos</title>
+    <!-- Latest compiled and minified CSS de Bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  </head>
+  <body>
+
+    <div class="container-fluid mt-4">
+      <!-- Filtros -->
+      <div class="row mb-4">
+        <div class="col-md-12">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title">Filtros</h5>
+              <form class="row g-3">
+                <div class="col-md-4">
+                  <label for="fechaDesde" class="form-label">Fecha Desde</label>
+                  <input type="date" class="form-control" id="fechaDesde" required>
+                </div>
+                <div class="col-md-4">
+                  <label for="fechaHasta" class="form-label">Fecha Hasta</label>
+                  <input type="date" class="form-control" id="fechaHasta" required>
+                </div>
+                <div class="col-md-4 d-flex align-items-end">
+                  <button type="submit" class="btn btn-primary" id="btnFiltrar" >Filtrar</button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tabla de resultados -->
+      <div class="row">
+        <div class="col-md-12">
+          <table class="table">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Fecha</th>
+                <th>DNI cliente</th>
+                <th>Dirección</th>
+                <th>Estado</th>
+              </tr>
+            </thead>
+            <tbody id="EnviosObtenidos">
+              <!-- Aquí se agregarán los resultados de la consulta -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    <script >
+    
+    
+    document.addEventListener("DOMContentLoaded", () => {
+      const btnFiltrar = document.getElementById("btnFiltrar");
+    
+      btnFiltrar.addEventListener("click", async (event) => {
+        event.preventDefault(); // Prevenir el comportamiento por defecto del botón
+        
+        // Obtener los valores de los filtros
+        const fechaDesde = document.getElementById("fechaDesde").value;
+        const fechaHasta = document.getElementById("fechaHasta").value;
+        console.log(fechaDesde, fechaHasta)
+          // Validar que ambos campos tengan valores
+        if (!fechaDesde || !fechaHasta) {
+          alert("Por favor, ingrese ambas fechas.");
+          return;
+        }
+
+        // Validar que Fecha Desde no sea mayor que Fecha Hasta
+        if (new Date(fechaDesde) > new Date(fechaHasta)) {
+          alert("La fecha 'Desde' no puede ser mayor que la fecha 'Hasta'.");
+          return;
+  }
+        try {
+          // Hacer una solicitud a la API con fetch
+          const response = await fetch(`https://localhost:7173/obtenerEnviosFiltrados?fecDesde=${fechaDesde}&fecHasta=${fechaHasta}`);
+          if (!response.ok) {
+            throw new Error("Error al obtener los datos");
+          }
+    
+          const data = await response.json(); // Convertir respuesta a JSON
+          renderizarTabla(data);
+        } catch (error) {
+          console.error("Error:", error);
+          
+        }
+      });
+    
+      // Función para agregar filas a la tabla
+      function renderizarTabla(envios) {
+        const tabla = document.getElementById("EnviosObtenidos");
+        tabla.innerHTML = ""; // Limpiar contenido previo
+    
+        envios.forEach((envio, index) => {
+          const fila = document.createElement("tr");
+    
+          fila.innerHTML = `
+            <td>${index + 1}</td>
+            <td>${envio.fecha}</td>
+            <td>${envio.dniCliente}</td>
+            <td>${envio.direccion}</td>
+            <td>${envio.estado}</td>
+          `;
+    
+          tabla.appendChild(fila);
+        });
+      }
+    });
+    </script>
+    <!-- Latest compiled JavaScript de Bootstrap -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+   
+ 
+</body>
+
+</html>

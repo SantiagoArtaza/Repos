@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parcial</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    
+</head>
+<body>
+    
+    <div class="container mt-4">    
+        <h1> Parcial</h1>
+        <div class="row mt-3">
+            <div class="col-md-6">
+                <form id="formularioParcial">
+                    <div class="form-group">
+                        <label for="nombreInput">Nombre:</label>
+                        <input type="text" class="form-control" id="nombreInput" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="apellidoInput">Apellido:</label>
+                        <input type="text" class="form-control" id="apellidoInput" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="dniInput">DNI:</label>
+                        <input type="text" class="form-control" id="dniInput" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="telefonoInput">Teléfono:</label>
+                        <input type="text" class="form-control" id="telefonoInput">
+                    </div>
+                    <div class="form-group">
+                        <label for="calleInput">Calle:</label>
+                        <input type="text" class="form-control" id="calleInput">
+                    </div>
+                    <div class="form-group">
+                        <label for="numeroInput">Número:</label>
+                        <input type="text" class="form-control" id="numeroInput">
+                    </div>
+                    <div class="form-group">
+                        <label for="codPostInput">Código Postal:</label>
+                        <input type="text" class="form-control" id="codPostInput">
+                    </div>
+                    <button type="submit" class="btn btn-primary">save changes
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    
+    <script>
+        document.getElementById('formularioAlbanil').addEventListener('submit' , async function(event) {
+            event.preventDefault();
+    
+            const nombre = document.getElementById('nombreInput').value;
+            const apellido =document.getElementById('apellidoInput').value;
+            const dni =document.getElementById('dniInput').value;
+            const telefono =document.getElementById('telefonoInput').value;
+            const calle =document.getElementById('calleInput').value;
+            const numero =document.getElementById('numeroInput').value;
+            const codPost =document.getElementById('codPostInput').value;
+    
+            const data = {
+                nombre,apellido,dni,telefono,calle,numero,codPost
+            }
+    
+            const response = await fetch('https://localhost:7291/partial' , {
+                method : 'POST',
+                headers : {
+                    'Content-type':'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+            const responseData = await response.json();
+    
+            if (responseData.success) {
+                console.log(responseData)
+                alert(responseData.message || "Hubo un problema .");
+                return;
+            }
+            alert(responseData.message || " asignado con éxito.");
+
+            document.getElementById('formularioParcial').reset();
+        })
+    
+    </script>
+
+
+
+
+</body>
+</html>

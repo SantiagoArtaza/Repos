@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|c:\\users\\sarie\\onedrive\\desktop\\404868 - l\u00F3pez candela - final\\parcialsln\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|c:\\users\\sarie\\onedrive\\desktop\\404868 - l\u00F3pez candela - final\\parcialsln\\webapi\\service\\envioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\service\\envioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|c:\\users\\sarie\\onedrive\\desktop\\404868 - l\u00F3pez candela - final\\parcialsln\\webapi\\controllers\\envioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\envioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|c:\\users\\sarie\\onedrive\\desktop\\404868 - l\u00F3pez candela - final\\parcialsln\\webapi\\repository\\ienviorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\repository\\ienviorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|c:\\users\\sarie\\onedrive\\desktop\\404868 - l\u00F3pez candela - final\\parcialsln\\webapi\\repository\\enviorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\repository\\enviorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|c:\\users\\sarie\\onedrive\\desktop\\404868 - l\u00F3pez candela - final\\parcialsln\\webapi\\service\\ienvioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\service\\ienvioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|c:\\users\\sarie\\onedrive\\desktop\\404868 - l\u00F3pez candela - final\\parcialsln\\webapi\\models\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|c:\\users\\sarie\\onedrive\\desktop\\404868 - l\u00F3pez candela - final\\parcialsln\\webapi\\models\\detallesenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\detallesenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|c:\\users\\sarie\\onedrive\\desktop\\404868 - l\u00F3pez candela - final\\parcialsln\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|c:\\users\\sarie\\onedrive\\desktop\\404868 - l\u00F3pez candela - final\\parcialsln\\webapi\\models\\enviosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\enviosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|c:\\users\\sarie\\onedrive\\desktop\\404868 - l\u00F3pez candela - final\\parcialsln\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|c:\\users\\sarie\\onedrive\\desktop\\404868 - l\u00F3pez candela - final\\parcialsln\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|c:\\users\\sarie\\onedrive\\desktop\\404868 - l\u00F3pez candela - final\\parcialsln\\webapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|c:\\users\\sarie\\onedrive\\desktop\\404868 - l\u00F3pez candela - final\\parcialsln\\webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEnvioService.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Service\\IEnvioService.cs",
+              "RelativeDocumentMoniker": "WebApi\\Service\\IEnvioService.cs",
+              "ToolTip": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Service\\IEnvioService.cs",
+              "RelativeToolTip": "WebApi\\Service\\IEnvioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:34:11.018Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnvioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Repository\\EnvioRepository.cs",
+              "RelativeDocumentMoniker": "WebApi\\Repository\\EnvioRepository.cs",
+              "ToolTip": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Repository\\EnvioRepository.cs",
+              "RelativeToolTip": "WebApi\\Repository\\EnvioRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:32:21.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Envio.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Models\\Envio.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\Envio.cs",
+              "ToolTip": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Models\\Envio.cs",
+              "RelativeToolTip": "WebApi\\Models\\Envio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:06:32.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnvioService.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Service\\EnvioService.cs",
+              "RelativeDocumentMoniker": "WebApi\\Service\\EnvioService.cs",
+              "ToolTip": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Service\\EnvioService.cs",
+              "RelativeToolTip": "WebApi\\Service\\EnvioService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:34:21.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetallesEnvio.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Models\\DetallesEnvio.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\DetallesEnvio.cs",
+              "ToolTip": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Models\\DetallesEnvio.cs",
+              "RelativeToolTip": "WebApi\\Models\\DetallesEnvio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:24:25.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEnvioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Repository\\IEnvioRepository.cs",
+              "RelativeDocumentMoniker": "WebApi\\Repository\\IEnvioRepository.cs",
+              "ToolTip": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Repository\\IEnvioRepository.cs",
+              "RelativeToolTip": "WebApi\\Repository\\IEnvioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:54:29.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:02:11.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnviosController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Controllers\\EnviosController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\EnviosController.cs",
+              "ToolTip": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Controllers\\EnviosController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\EnviosController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwEAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:11:35.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnviosDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Models\\EnviosDBContext.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\EnviosDBContext.cs",
+              "ToolTip": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Models\\EnviosDBContext.cs",
+              "RelativeToolTip": "WebApi\\Models\\EnviosDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:41:15.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T20:01:50.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "WebApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T16:49:22.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T16:40:31.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebApi",
+              "DocumentMoniker": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-04T16:40:31.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Sarie\\OneDrive\\Desktop\\404868 - L\u00F3pez Candela - Final\\ParcialSln\\WebApi\\Models\\Producto.cs",
+              "RelativeToolTip": "WebApi\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:38:49.86Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
